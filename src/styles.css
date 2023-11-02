@@ -272,7 +272,7 @@ select {
   }
 
   input[type="range"] {
-    -webkit-appearance: none;
+    appearance: none;
     background: hsl(var(--veryDarkGrey));
     accent-color: white;
     cursor: pointer;
